@@ -1,0 +1,38 @@
+[
+    {
+        "id": 2,
+        "name": "Toshmat",
+        "phoneNumber": "998901234568",
+        "branchId": 2
+    },
+    {
+        "id": 3,
+        "name": "Mirsidiq",
+        "phoneNumber": "998901234567",
+        "branchId": 1
+    },
+    {
+        "id": 4,
+        "name": "Sarvinoz",
+        "phoneNumber": "998901234567",
+        "branchId": 4
+    },
+    {
+        "id": 5,
+        "name": "Samiyaxon",
+        "phoneNumber": "998901234567",
+        "branchId": 3
+    },
+    {
+        "id": 6,
+        "name": "Shavkat",
+        "phoneNumber": "7777777",
+        "branchId": 3
+    },
+    {
+        "id": 8,
+        "name": "Eshmat",
+        "phoneNumber": 2569955,
+        "branchId": 2
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "Olma",
+        "price": "100000",
+        "branchId": 1
+    },
+    {
+        "id": 2,
+        "title": "Anor",
+        "price": "200000",
+        "branchId": 2
+    },
+    {
+        "id": 3,
+        "title": "Nok",
+        "price": "300000",
+        "branchId": 1
+    },
+    {
+        "id": 4,
+        "title": "Ananas",
+        "price": "500000",
+        "branchId": 4
+    }
+]

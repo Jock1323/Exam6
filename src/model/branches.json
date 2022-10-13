@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Makro Yunusobod",
+        "address": "Yunusuobod, Shahristanskiy",
+        "marketId": 1
+    },
+    {
+        "id": 2,
+        "name": "Makro chilonzor",
+        "address": "Yunusuobod, Chilonzor metro",
+        "marketId": 1
+    },
+    {
+        "id": 3,
+        "name": "Makro Zangiota",
+        "address": "Zangiota",
+        "marketId": 1
+    },
+    {
+        "id": 4,
+        "name": "Havas Xorazm",
+        "address": "Xorazm",
+        "marketId": 2
+    },
+    {
+        "id": 5,
+        "name": "Korzinka Chilonzor",
+        "address": "Chilonzor",
+        "marketId": 3
+    },
+    {
+        "id": 6,
+        "name": "Korzinka Beruniy",
+        "address": "Beruniy",
+        "marketId": 3
+    }
+]
